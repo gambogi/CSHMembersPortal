@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Info",
+    "links": [
+      {
+        "name": "Profiles",
+        "href": "https://profiles.csh.rit.edu",
+        "icon": "material:account-circle",
+        "popular": true
+      },
+      {
+        "name": "Events",
+        "dropdown": [
+          {
+            "name": "Calendar",
+            "href": "https://www.google.com/calendar/embed?src=rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com&ctz=America/New_York"
+          },
+          {
+            "name": "XML",
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic"
+          },
+          {
+            "name": "iCal",
+            "href": "https://www.google.com/calendar/ical/rti648k5hv7j3ae3a3rum8potk%40group.calendar.google.com/public/basic.ics"
+          }
+        ],
+        "icon": "material:event",
+        "popular": true
+      },
+      {
+        "name": "Floor Map",
+        "href": "https://map.csh.rit.edu",
+        "icon": "material:map"
+      },
+      {
+        "name": "Constitution",
+        "href": "https://github.com/ComputerScienceHouse/Constitution",
+        "icon": "material:receipt"
+      },
+      {
+        "name": "Spending",
+        "href": "https://spending.csh.rit.edu",
+        "icon": "material:trending-down"
+      },
+      {
+        "name": "Alumni Map",
+        "href": "https://alumnimap.csh.rit.edu",
+        "icon": "material:language"
+      },
+      {
+        "name": "Discourse",
+        "href": "https://discourse.csh.rit.edu",
+        "icon": "material:forum",
+        "popular": true
+      },
+      {
+        "name": "WebNews",
+        "href": "https://webnews.csh.rit.edu",
+        "icon": "material:chat-bubble-outline",
+        "popular": true
+      }
+    ]
+  },
+  {
+    "name": "Media",
+    "links": [
+      {
+        "name": "Wiki",
+        "href": "https://wiki.csh.rit.edu",
+        "icon": "zocial:wikipedia"
+      },
+      {
+        "name": "Gallery",
+        "href": "https://gallery.csh.rit.edu",
+        "icon": "material:photo"
+      },
+      {
+        "name": "Segfault Archive",
+        "href": "https://segfault.csh.rit.edu/",
+        "icon": "material:layers"
+      }
+    ]
+  },
+  {
+    "name": "Services",
+    "links": [
+      {
+        "name": "Schedule Maker",
+        "href": "https://schedule.csh.rit.edu/",
+        "icon": "material:schedule"
+      },
+      {
+        "name": "WebDrink",
+        "href": "https://webdrink.csh.rit.edu",
+        "icon": "material:local-drink"
+      },
+      {
+        "name": "Webmail",
+        "href": "https://webmail.csh.rit.edu",
+        "icon": "material:send",
+        "popular": true
+      },
+      {
+        "name": "Mailing Lists",
+        "href": "https://lists.csh.rit.edu",
+        "icon": "material:mail"
+      },
+      {
+        "name": "Eval Database",
+        "href": "https://eval.csh.rit.edu",
+        "icon": "material:group-add"
+      },
+      {
+        "name": "Packet",
+        "href": "https://packet.csh.rit.edu",
+        "icon": "material:check-box"
+      },
+      {
+        "name": "User Machines",
+        "href": "https://wiki.csh.rit.edu/wiki/User_services_machine",
+        "icon": "material:computer"
+      },
+      {
+        "name": "Webcomics",
+        "href": "https://c-yank.csh.rit.edu",
+        "icon": "material:view-compact"
+      },
+      {
+        "name": "Slack",
+        "dropdown": [
+          {
+            "name": "Web Client",
+            "href": "https://cshrit.slack.com"
+          },
+          {
+            "name": "Request an Invite",
+            "href": "https://cshrit.signup.team"
+          }
+       ],
+        "icon": "fa:slack",
+        "popular": true
+      }
+    ]
+  },
+  {
+    "name": "CSH On The Web",
+    "links": [
+      {
+        "name": "Facebook",
+        "dropdown": [
+          {
+            "name": "Public Page",
+            "href": "https://www.facebook.com/RITCSH/"
+          },
+          {
+            "name": "Alumni Group",
+            "href": "https://www.facebook.com/groups/16764593277/"
+          }
+        ],
+        "icon": "brandico:facebook-rect"
+      },
+      {
+        "name": "Twitter",
+        "dropdown": [
+          {
+            "name": "History",
+            "href": "https://twitter.com/CSH_History"
+          },
+          {
+            "name": "OpComm",
+            "href": "https://twitter.com/OPCOMM"
+          },
+          {
+            "name": "The Committee",
+            "href": "https://twitter.com/FUMNCommittee"
+          }
+        ],
+        "icon": "brandico:twitter-bird"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/groups?gid=971",
+        "icon": "brandico:linkedin"
+      },
+      {
+        "name": "GitHub",
+        "href": "https://github.com/ComputerScienceHouse",
+        "icon": "icomoon:github"
+      }
+    ]
+  },
+  {
+    "name": "Systems Admin",
+    "links": [
+      {
+        "name": "Password Reset",
+        "href": "https://password.csh.rit.edu",
+        "icon": "material:lock"
+      },
+      {
+        "name": "STARRS",
+        "href": "https://starrs.csh.rit.edu",
+        "icon": "material:signal-wifi-4-bar-lock"
+      },
+      {
+        "name": "LDAP Admin",
+        "href": "https://webldap.csh.rit.edu",
+        "icon": "material:verified-user"
+      },
+      {
+        "name": "MySQL Admin",
+        "href": "https://webmysql.csh.rit.edu",
+        "icon": "material:storage"
+      },
+      {
+        "name": "PostgreSQL Admin",
+        "href": "https://webpgsql.csh.rit.edu",
+        "icon": "material:storage"
+      }
+    ]
+  },
+  {
+    "name": "Docs and Misc",
+    "links": [
+      {
+        "name": "CSH Code of Conduct",
+        "href": "https://github.com/ComputerScienceHouse/codeofconduct"
+      },
+      {
+        "name": "RIT Service Interruptions",
+        "href": "https://www.rit.edu/fa/facilities/content/service-interruptions"
+      },
+      {
+        "name": "CSH Floor Plan",
+        "href": "https://facilities.rit.edu/campus/floorplans/buildings/043/3.pdf"
+      }
+    ]
+  }
+]
